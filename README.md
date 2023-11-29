@@ -30,8 +30,6 @@ A prepared shapefile of fire perimeters in California during 2017[4].
 ### File structure
 
 ```html
-<pre>
-.
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -47,7 +45,6 @@ A prepared shapefile of fire perimeters in California during 2017[4].
 │   │   └── California_Fire_Perimeters_2017.shx
 │   └── landsat8-2018-01-26-sb-simplified.nc
 └── thomasfire_aqi_analysis.ipynb
-</pre>
 ```
 
 ### Citations:
