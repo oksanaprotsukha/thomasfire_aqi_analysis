@@ -1,4 +1,4 @@
-## Impact of Thomas Fire on AQI in Santa Barbara County, CA (2017)
+## Impact of the Thomas Fire on AQI in Santa Barbara County, CA (2017)
 
 ### Objective
 The notebook provides a step-by-step data analysis of the impact of the Thomas Fire (2017) on air quality in Santa Barbara County.
