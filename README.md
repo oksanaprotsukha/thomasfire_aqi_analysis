@@ -1,4 +1,4 @@
-## Thomas Fire's Impact on AQI in Santa Barbara, CA (2017)
+## Impact of Thomas Fire on AQI in Santa Barbara County, CA (2017)
 
 ### Objective
 The notebook provides a step-by-step data analysis of the impact of the Thomas Fire (2017) on air quality in Santa Barbara County.
@@ -23,9 +23,7 @@ A simplified collection of bands (red, green, blue, near-infrared and shortwave 
 #### DataSet 3
 A prepared shapefile of fire perimeters in California during 2017[4].
 
-**Note**: Data for datasets 2 and 3 is available on Google Drive in the file [thomasfire_aqi_analysis.zip](https://drive.google.com/file/d/1lDBPBy9378Zcj1g9Huhe8F_WeP4LZ7CN/view?usp=sharing). 
-
-### File structure
+*Note: Data for datasets 2 and 3 is available on Google Drive in the file [thomasfire_aqi_analysis.zip]*(https://drive.google.com/file/d/1lDBPBy9378Zcj1g9Huhe8F_WeP4LZ7CN/view?usp=sharing).
 
 ### File structure
 
