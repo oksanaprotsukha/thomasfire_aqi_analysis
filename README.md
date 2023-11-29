@@ -27,21 +27,28 @@ A prepared shapefile of fire perimeters in California during 2017[4].
 
 ### File structure
 
+### File structure
+
+```html
+<pre>
+.
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── assets
-│ ├── thomas_fire_aqi.png
-│ └── thomas_fire_scar.png
+│   ├── thomas_fire_aqi.png
+│   └── thomas_fire_scar.png
 ├── data
-│ ├── California_Fire_Perimeters_2017
-│ │ ├── California_Fire_Perimeters_2017.cpg
-│ │ ├── California_Fire_Perimeters_2017.dbf
-│ │ ├── California_Fire_Perimeters_2017.prj
-│ │ ├── California_Fire_Perimeters_2017.shp
-│ │ └── California_Fire_Perimeters_2017.shx
-│ └── landsat8-2018-01-26-sb-simplified.nc
+│   ├── California_Fire_Perimeters_2017
+│   │   ├── California_Fire_Perimeters_2017.cpg
+│   │   ├── California_Fire_Perimeters_2017.dbf
+│   │   ├── California_Fire_Perimeters_2017.prj
+│   │   ├── California_Fire_Perimeters_2017.shp
+│   │   └── California_Fire_Perimeters_2017.shx
+│   └── landsat8-2018-01-26-sb-simplified.nc
 └── thomasfire_aqi_analysis.ipynb
+</pre>
+```
 
 ### Citations:
 [1] AirData Website File Download Page. https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI. Accessed 28 Nov. 2023.</br>
