@@ -7,7 +7,7 @@ The final outputs of the analysis include:
 - A **Line Plot** depicting the time series analysis of the Air Quality Index (AQI) in Santa Barbara county for 2017 and 2018.</br>
 <img src="assets/thomas_fire_aqi.png" width="600" />
 
-- A **Map** with an overlay of the Thomas Fire scar on the Santa Barbara county land cover.</br>
+- A **Map** with an overlay of the Thomas Fire scar (false color image) on the Santa Barbara county land cover.</br>
 <img src="assets/thomas_fire_scar.png" width="600" />
 
 ### Data:
